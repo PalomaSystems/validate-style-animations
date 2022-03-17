@@ -7,13 +7,12 @@ A small library for an easy element highlighting when validation fails.
 ### NPM
 `npm i validate-style-animations`
 ### CDN
-
 ```
 <script src="https://unpkg.com/validate-style-animations/dist/index.min.js"></script>
 ```
 
 ## Usage
-### savedPanel
+### validateStyle
 
 There is a second optional parameter:
 

@@ -1,0 +1,28 @@
+{
+  "name": "validate-style-animations",
+  "version": "1.0.0",
+  "description": "A small library for an easy element highlighting when validation fails.",
+  "main": "dist/index.min.js",
+  "scripts": {
+    "build": "gulp pack-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kylescudder/validate-style-animations.git"
+  },
+  "url": "https://github.com/kylescudder/validate-style-animations/issues",
+  "email": "kyle@kylescudder.co.uk",
+  "homepage": "https://github.com/kylescudder/validate-style-animations#readme",
+  "keywords": [
+    "validate",
+    "style"
+  ],
+  "author": "kylescudder",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^2.0.0"
+  }
+}

@@ -1,5 +1,6 @@
 ![npm](https://img.shields.io/npm/v/validate-style-animations)
 [![Release new version to NPMJS](https://github.com/kylescudder/validate-style-animations/actions/workflows/publish.yml/badge.svg)](https://github.com/kylescudder/validate-style-animations/actions/workflows/publish.yml)
+[![Create new GitHub Release](https://github.com/kylescudder/validate-style-animations/actions/workflows/github_release.yml/badge.svg)](https://github.com/kylescudder/validate-style-animations/actions/workflows/github_release.yml)
 
 # validate-style-animations
 A small library for an easy element highlighting when validation fails.

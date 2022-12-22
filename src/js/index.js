@@ -3,8 +3,8 @@ export const validateStyle = (element, addOrRemove = true) => {
     element.style.borderColor = "red";
     element.style.backgroundColor = "pink";
   } else {
-    element.style.border = "1px solid #ced4da";
-    element.style.backgroundColor = "transparent";
+    element.style.border = "";
+    element.style.backgroundColor = "";
   }
 };
 window.validateStyle = function (element, addOrRemove = true) {
@@ -12,7 +12,7 @@ window.validateStyle = function (element, addOrRemove = true) {
     element.style.borderColor = "red";
     element.style.backgroundColor = "pink";
   } else {
-    element.style.border = "1px solid #ced4da";
-    element.style.backgroundColor = "transparent";
+    element.style.border = "";
+    element.style.backgroundColor = "";
   }
 };
